@@ -1,7 +1,7 @@
 # CS597-Reserch-Topics
 
 
-##Abstract
+## Abstract
 
 Parallel K-Means: Clustering is one of the most popular methods for data analysis, which is prevalent in many disciplines such as image segmentation, bioinformatics, pattern recognition and statistics etc. The most popular and simplest clustering algorithm is K-means because of its easy implementation, simplicity, efficiency and empirical success. However, the real-world applications produce huge volumes of data, thus, how to efficiently handle of these data in an important mining task has been a challenging and significant issue. In addition, MPI (Message Passing Interface) as a programming model of message passing presents high performances, scalability and portability. Motivated by this, a parallel K-means clustering algorithm with MPI, called MKmeans, is proposed in this paper. The algorithm enables applying the clustering algorithm effectively in the parallel environment. Experimental study demonstrates that MKmeans is relatively stable and portable, and it performs with low overhead of time on large volumes of data sets. 
 
